@@ -1,0 +1,56 @@
+{"dataset": "MBPP Sanitized", "model": "GPT-4o", "method": "Direct", "score": 0.782}
+{"dataset": "MBPP Sanitized", "model": "GPT-4o", "method": "MBTI", "score": 0.843}
+{"dataset": "MBPP Sanitized", "model": "GPT-4o mini", "method": "Direct", "score": 0.693}
+{"dataset": "MBPP Sanitized", "model": "GPT-4o mini", "method": "MBTI", "score": 0.822}
+{"dataset": "MBPP Sanitized", "model": "Llama 3.1 70B", "method": "Direct", "score": 0.698}
+{"dataset": "MBPP Sanitized", "model": "Llama 3.1 70B", "method": "MBTI", "score": 0.810}
+{"dataset": "MBPP Sanitized", "model": "Qwen-long", "method": "Direct", "score": 0.684}
+{"dataset": "MBPP Sanitized", "model": "Qwen-long", "method": "MBTI", "score": 0.808}
+{"dataset": "MBPP Sanitized", "model": "Deepseek Coder V2", "method": "Direct", "score": 0.749}
+{"dataset": "MBPP Sanitized", "model": "Deepseek Coder V2", "method": "MBTI", "score": 0.857}
+{"dataset": "MBPP Sanitized", "model": "Codestral 22B", "method": "Direct", "score": 0.642}
+{"dataset": "MBPP Sanitized", "model": "Codestral 22B", "method": "MBTI", "score": 0.738}
+{"dataset": "MBPP Sanitized", "model": "Codellama 13B", "method": "Direct", "score": 0.433}
+{"dataset": "MBPP Sanitized", "model": "Codellama 13B", "method": "MBTI", "score": 0.468}
+{"dataset": "MBPP+", "model": "GPT-4o", "method": "Direct", "score": 0.712}
+{"dataset": "MBPP+", "model": "GPT-4o", "method": "MBTI", "score": 0.727}
+{"dataset": "MBPP+", "model": "GPT-4o mini", "method": "Direct", "score": 0.694}
+{"dataset": "MBPP+", "model": "GPT-4o mini", "method": "MBTI", "score": 0.717}
+{"dataset": "MBPP+", "model": "Llama 3.1 70B", "method": "Direct", "score": 0.667}
+{"dataset": "MBPP+", "model": "Llama 3.1 70B", "method": "MBTI", "score": 0.692}
+{"dataset": "MBPP+", "model": "Qwen-long", "method": "Direct", "score": 0.677}
+{"dataset": "MBPP+", "model": "Qwen-long", "method": "MBTI", "score": 0.712}
+{"dataset": "MBPP+", "model": "Deepseek Coder V2", "method": "Direct", "score": 0.714}
+{"dataset": "MBPP+", "model": "Deepseek Coder V2", "method": "MBTI", "score": 0.722}
+{"dataset": "MBPP+", "model": "Codestral 22B", "method": "Direct", "score": 0.612}
+{"dataset": "MBPP+", "model": "Codestral 22B", "method": "MBTI", "score": 0.649}
+{"dataset": "MBPP+", "model": "Codellama 13B", "method": "Direct", "score": 0.424}
+{"dataset": "MBPP+", "model": "Codellama 13B", "method": "MBTI", "score": 0.524}
+{"dataset": "HumanEval+", "model": "GPT-4o", "method": "Direct", "score": 0.848}
+{"dataset": "HumanEval+", "model": "GPT-4o", "method": "MBTI", "score": 0.829}
+{"dataset": "HumanEval+", "model": "GPT-4o mini", "method": "Direct", "score": 0.805}
+{"dataset": "HumanEval+", "model": "GPT-4o mini", "method": "MBTI", "score": 0.823}
+{"dataset": "HumanEval+", "model": "Llama 3.1 70B", "method": "Direct", "score": 0.720}
+{"dataset": "HumanEval+", "model": "Llama 3.1 70B", "method": "MBTI", "score": 0.726}
+{"dataset": "HumanEval+", "model": "Qwen-long", "method": "Direct", "score": 0.768}
+{"dataset": "HumanEval+", "model": "Qwen-long", "method": "MBTI", "score": 0.787}
+{"dataset": "HumanEval+", "model": "Deepseek Coder V2", "method": "Direct", "score": 0.805}
+{"dataset": "HumanEval+", "model": "Deepseek Coder V2", "method": "MBTI", "score": 0.762}
+{"dataset": "HumanEval+", "model": "Codestral 22B", "method": "Direct", "score": 0.756}
+{"dataset": "HumanEval+", "model": "Codestral 22B", "method": "MBTI", "score": 0.768}
+{"dataset": "HumanEval+", "model": "Codellama 13B", "method": "Direct", "score": 0.329}
+{"dataset": "HumanEval+", "model": "Codellama 13B", "method": "MBTI", "score": 0.299}
+{"dataset": "APPS", "model": "GPT-4o", "method": "Direct", "score": 0.462}
+{"dataset": "APPS", "model": "GPT-4o", "method": "MBTI", "score": 0.452}
+{"dataset": "APPS", "model": "GPT-4o mini", "method": "Direct", "score": 0.346}
+{"dataset": "APPS", "model": "GPT-4o mini", "method": "MBTI", "score": 0.372}
+{"dataset": "APPS", "model": "Llama 3.1 70B", "method": "Direct", "score": 0.184}
+{"dataset": "APPS", "model": "Llama 3.1 70B", "method": "MBTI", "score": 0.252}
+{"dataset": "APPS", "model": "Qwen-long", "method": "Direct", "score": 0.102}
+{"dataset": "APPS", "model": "Qwen-long", "method": "MBTI", "score": 0.182}
+{"dataset": "APPS", "model": "Deepseek Coder V2", "method": "Direct", "score": 0.394}
+{"dataset": "APPS", "model": "Deepseek Coder V2", "method": "MBTI", "score": 0.344}
+{"dataset": "APPS", "model": "Codestral 22B", "method": "Direct", "score": 0.158}
+{"dataset": "APPS", "model": "Codestral 22B", "method": "MBTI", "score": 0.226}
+{"dataset": "APPS", "model": "Codellama 13B", "method": "Direct", "score": 0.014}
+{"dataset": "APPS", "model": "Codellama 13B", "method": "MBTI", "score": 0.064}

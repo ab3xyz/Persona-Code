@@ -1,0 +1,28 @@
+{"dataset": "MBPP Sanitized", "model": "GPT-4o", "test": 5.106242735299099, "p_value": 3.2862749965723026e-07}
+{"dataset": "MBPP Sanitized", "model": "GPT-4o mini", "test": 9.833915271041741, "p_value": 0.0}
+{"dataset": "MBPP Sanitized", "model": "Llama 3.1 70B", "test": 8.496669743789532, "p_value": 0.0}
+{"dataset": "MBPP Sanitized", "model": "Qwen-long", "test": 9.307206611566556, "p_value": 0.0}
+{"dataset": "MBPP Sanitized", "model": "Deepseek Coder V2", "test": 8.871903546670321, "p_value": 0.0}
+{"dataset": "MBPP Sanitized", "model": "Codestral 22B", "test": 6.781875027749006, "p_value": 1.1862510973514873e-11}
+{"dataset": "MBPP Sanitized", "model": "Codellama 13B", "test": 2.2983742118940165, "p_value": 0.021540499948997427}
+{"dataset": "MBPP+", "model": "GPT-4o", "test": 1.0545468513183929, "p_value": 0.2916326223463015}
+{"dataset": "MBPP+", "model": "GPT-4o mini", "test": 1.5936506697489254, "p_value": 0.11101429883360403}
+{"dataset": "MBPP+", "model": "Llama 3.1 70B", "test": 1.6919507349058682, "p_value": 0.09065536727674384}
+{"dataset": "MBPP+", "model": "Qwen-long", "test": 2.3998426326342854, "p_value": 0.01640212151682241}
+{"dataset": "MBPP+", "model": "Deepseek Coder V2", "test": 0.5615128028357629, "p_value": 0.5744480049801288}
+{"dataset": "MBPP+", "model": "Codestral 22B", "test": 2.42107592659209, "p_value": 0.015474644757424993}
+{"dataset": "MBPP+", "model": "Codellama 13B", "test": 6.325202140996331, "p_value": 2.529012554930432e-10}
+{"dataset": "HumanEval+", "model": "GPT-4o", "test": -1.0454607497039246, "p_value": 0.2958100721281922}
+{"dataset": "HumanEval+", "model": "GPT-4o mini", "test": 0.9366897306905798, "p_value": 0.34891818018001564}
+{"dataset": "HumanEval+", "model": "Llama 3.1 70B", "test": 0.271477690271766, "p_value": 0.7860236562254035}
+{"dataset": "HumanEval+", "model": "Qwen-long", "test": 0.9249756984005579, "p_value": 0.3549785484977379}
+{"dataset": "HumanEval+", "model": "Deepseek Coder V2", "test": -2.1140338316176734, "p_value": 0.034512377856311005}
+{"dataset": "HumanEval+", "model": "Codestral 22B", "test": 0.5705677364269617, "p_value": 0.568292693960492}
+{"dataset": "HumanEval+", "model": "Codellama 13B", "test": -1.3088392224808825, "p_value": 0.19058881772947434}
+{"dataset": "APPS", "model": "GPT-4o", "test": -0.709736256787587, "p_value": 0.4778677040833996}
+{"dataset": "APPS", "model": "GPT-4o mini", "test": 1.9162497686344708, "p_value": 0.05533331126481267}
+{"dataset": "APPS", "model": "Llama 3.1 70B", "test": 5.822805665288513, "p_value": 5.786783052741384e-09}
+{"dataset": "APPS", "model": "Qwen-long", "test": 8.10321155425572, "p_value": 4.440892098500626e-16}
+{"dataset": "APPS", "model": "Deepseek Coder V2", "test": -3.663508032846445, "p_value": 0.00024878441047571087}
+{"dataset": "APPS", "model": "Codestral 22B", "test": 6.103903014727652, "p_value": 1.0350911239243032e-09}
+{"dataset": "APPS", "model": "Codellama 13B", "test": 9.131266404391901, "p_value": 0.0}

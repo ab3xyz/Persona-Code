@@ -1,0 +1,500 @@
+{"question": 0, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 1, "output": "input 0 failed, output 199\n", "result": false}
+{"question": 2, "output": "input 6 failed, output timed out", "result": false}
+{"question": 3, "output": "input 1 failed, output 4\n", "result": false}
+{"question": 4, "output": "input 2 failed, output 4\n", "result": false}
+{"question": 5, "output": "input 0 failed, output 4\n", "result": false}
+{"question": 6, "output": "input 0 failed, output 2\n4\n-1\n", "result": false}
+{"question": 7, "output": "input 0 failed, output 3\n", "result": false}
+{"question": 8, "output": "input 2 failed, output 2\n", "result": false}
+{"question": 9, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 10, "output": "input 0 failed, output ", "result": false}
+{"question": 11, "output": "input 0 failed, output 75\n", "result": false}
+{"question": 12, "output": "input 0 failed, output 3\n", "result": false}
+{"question": 13, "output": "input 0 failed, output 6 [1, 2, 3, 4, 5, 6]\n", "result": false}
+{"question": 14, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 15, "output": "All Passed", "result": true}
+{"question": 16, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 17, "output": "input 1 failed, output 3\n", "result": false}
+{"question": 18, "output": "input 0 failed, output ab\n", "result": false}
+{"question": 19, "output": "input 0 failed, output NO\nYES\nNO\n", "result": false}
+{"question": 20, "output": "All Passed", "result": true}
+{"question": 21, "output": "All Passed", "result": true}
+{"question": 22, "output": "input 4 failed, output TAK\n", "result": false}
+{"question": 23, "output": "input 0 failed, output 123\n", "result": false}
+{"question": 24, "output": "input 0 failed, output ", "result": false}
+{"question": 25, "output": "input 0 failed, output 1 0\n0 0\n", "result": false}
+{"question": 26, "output": "input 4 failed, output (z^y)^x\n", "result": false}
+{"question": 27, "output": "input 0 failed, output 7\n", "result": false}
+{"question": 28, "output": "input 0 failed, output 5\nmove 01 1\nmove 2 4\nmove 2extra 2\nmove 3 5\nmove 99 3\n", "result": false}
+{"question": 29, "output": "input 1 failed, output 1\n", "result": false}
+{"question": 30, "output": "input 0 failed, output 4\n", "result": false}
+{"question": 31, "output": "input 0 failed, output 499987 2\n", "result": false}
+{"question": 32, "output": "input 3 failed, output YES\n", "result": false}
+{"question": 33, "output": "input 1 failed, output 3\n", "result": false}
+{"question": 34, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 35, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 36, "output": "input 0 failed, output 1 2\n", "result": false}
+{"question": 37, "output": "input 0 failed, output timed out", "result": false}
+{"question": 38, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 39, "output": "All Passed", "result": true}
+{"question": 40, "output": "All Passed", "result": true}
+{"question": 41, "output": "input 0 failed, output 1 1 0 1 0 0 1 2 1\n", "result": false}
+{"question": 42, "output": "input 0 failed, output timed out", "result": false}
+{"question": 43, "output": "input 18 failed, output 2 3\n", "result": false}
+{"question": 44, "output": "input 0 failed, output 20\n", "result": false}
+{"question": 45, "output": "input 0 failed, output 2 4 6\n", "result": false}
+{"question": 46, "output": "input 0 failed, output ", "result": false}
+{"question": 47, "output": "input 85 failed, output 8\n", "result": false}
+{"question": 48, "output": "All Passed", "result": true}
+{"question": 49, "output": "All Passed", "result": true}
+{"question": 50, "output": "input 0 failed, output 40\n", "result": false}
+{"question": 51, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 52, "output": "input 0 failed, output 5\n", "result": false}
+{"question": 53, "output": "input 0 failed, output 4\n", "result": false}
+{"question": 54, "output": "input 2 failed, output timed out", "result": false}
+{"question": 55, "output": "input 0 failed, output Yes\n3 3 3 4 4\n", "result": false}
+{"question": 56, "output": "input 0 failed, output ", "result": false}
+{"question": 57, "output": "All Passed", "result": true}
+{"question": 58, "output": "input 1 failed, output 4\n", "result": false}
+{"question": 59, "output": "input 1 failed, output YES\n", "result": false}
+{"question": 60, "output": "input 2 failed, output 13\n", "result": false}
+{"question": 61, "output": "All Passed", "result": true}
+{"question": 62, "output": "input 0 failed, output BitAryo\n", "result": false}
+{"question": 63, "output": "input 0 failed, output timed out", "result": false}
+{"question": 64, "output": "input 0 failed, output ", "result": false}
+{"question": 65, "output": "All Passed", "result": true}
+{"question": 66, "output": "input 0 failed, output 1/5\n", "result": false}
+{"question": 67, "output": "input 3 failed, output 0\n", "result": false}
+{"question": 68, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 69, "output": "input 0 failed, output 0\n0\n1\n-1\n", "result": false}
+{"question": 70, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 71, "output": "input 0 failed, output ", "result": false}
+{"question": 72, "output": "input 4 failed, output Kuro\n", "result": false}
+{"question": 73, "output": "input 1 failed, output timed out", "result": false}
+{"question": 74, "output": "input 3 failed, output 3\n2 2 5\n", "result": false}
+{"question": 75, "output": "input 0 failed, output YES\n2 2\n", "result": false}
+{"question": 76, "output": "input 0 failed, output -30\n", "result": false}
+{"question": 77, "output": "input 4 failed, output 40261\n", "result": false}
+{"question": 78, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 79, "output": "input 1 failed, output 500000005\n", "result": false}
+{"question": 80, "output": "input 1 failed, output 14\n", "result": false}
+{"question": 81, "output": "input 7 failed, output timed out", "result": false}
+{"question": 82, "output": "input 0 failed, output 8\n", "result": false}
+{"question": 83, "output": "input 6 failed, output -1000\n", "result": false}
+{"question": 84, "output": "input 0 failed, output 5\n", "result": false}
+{"question": 85, "output": "input 0 failed, output ", "result": false}
+{"question": 86, "output": "input 0 failed, output Vasiliy\n", "result": false}
+{"question": 87, "output": "All Passed", "result": true}
+{"question": 88, "output": "input 2 failed, output 6\n", "result": false}
+{"question": 89, "output": "input 0 failed, output 10\n", "result": false}
+{"question": 90, "output": "input 1 failed, output 0\n", "result": false}
+{"question": 91, "output": "input 0 failed, output YES\nYES\nYES\nYES\nNO\n", "result": false}
+{"question": 92, "output": "input 54 failed, output timed out", "result": false}
+{"question": 93, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 94, "output": "input 0 failed, output timed out", "result": false}
+{"question": 95, "output": "input 5 failed, output NO\n", "result": false}
+{"question": 96, "output": "input 0 failed, output 5\n3\n2\n5\n499951\n", "result": false}
+{"question": 97, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 98, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 99, "output": "input 0 failed, output 7\n", "result": false}
+{"question": 100, "output": "input 1 failed, output ......\n.w....\n.++...\n..w...\n......\n", "result": false}
+{"question": 101, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 102, "output": "All Passed", "result": true}
+{"question": 103, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 104, "output": "All Passed", "result": true}
+{"question": 105, "output": "input 0 failed, output 2 1\n", "result": false}
+{"question": 106, "output": "input 0 failed, output 63\n", "result": false}
+{"question": 107, "output": "input 0 failed, output no\n", "result": false}
+{"question": 108, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 109, "output": "input 0 failed, output 3\n", "result": false}
+{"question": 110, "output": "input 0 failed, output -3 2 2 2\n", "result": false}
+{"question": 111, "output": "All Passed", "result": true}
+{"question": 112, "output": "input 0 failed, output timed out", "result": false}
+{"question": 113, "output": "input 0 failed, output 3750000\n", "result": false}
+{"question": 114, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 115, "output": "input 0 failed, output 0.8333333333333334 0.8333333333333334 0.8333333333333334\n", "result": false}
+{"question": 116, "output": "input 0 failed, output ", "result": false}
+{"question": 117, "output": "input 0 failed, output 42\n", "result": false}
+{"question": 118, "output": "input 0 failed, output YES\n", "result": false}
+{"question": 119, "output": "input 0 failed, output 2 5\n", "result": false}
+{"question": 120, "output": "input 0 failed, output ===\n", "result": false}
+{"question": 121, "output": "input 3 failed, output YES\n", "result": false}
+{"question": 122, "output": "input 0 failed, output ", "result": false}
+{"question": 123, "output": "input 0 failed, output No\n", "result": false}
+{"question": 124, "output": "All Passed", "result": true}
+{"question": 125, "output": "input 1 failed, output YES\n", "result": false}
+{"question": 126, "output": "input 2 failed, output NO\n", "result": false}
+{"question": 127, "output": "input 0 failed, output 4\n", "result": false}
+{"question": 128, "output": "input 2 failed, output 200000\n", "result": false}
+{"question": 129, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 130, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 131, "output": "input 2 failed, output Yes\n", "result": false}
+{"question": 132, "output": "input 1 failed, output 160\n", "result": false}
+{"question": 133, "output": "input 1 failed, output 3\n", "result": false}
+{"question": 134, "output": "input 11 failed, output 249999999999999999 250000000000000001\n", "result": false}
+{"question": 135, "output": "input 73 failed, output Yes\n", "result": false}
+{"question": 136, "output": "input 0 failed, output ", "result": false}
+{"question": 137, "output": "input 0 failed, output 16\n", "result": false}
+{"question": 138, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 139, "output": "input 0 failed, output ", "result": false}
+{"question": 140, "output": "input 0 failed, output ", "result": false}
+{"question": 141, "output": "input 11 failed, output 21\n", "result": false}
+{"question": 142, "output": "input 0 failed, output 210\n", "result": false}
+{"question": 143, "output": "input 0 failed, output 3\n", "result": false}
+{"question": 144, "output": "input 0 failed, output ", "result": false}
+{"question": 145, "output": "input 0 failed, output IGNORE HIM!\n", "result": false}
+{"question": 146, "output": "All Passed", "result": true}
+{"question": 147, "output": "input 0 failed, output -3\n", "result": false}
+{"question": 148, "output": "input 1 failed, output YES\n", "result": false}
+{"question": 149, "output": "input 4 failed, output timed out", "result": false}
+{"question": 150, "output": "input 1 failed, output 14\n", "result": false}
+{"question": 151, "output": "input 0 failed, output h e ll n o\n", "result": false}
+{"question": 152, "output": "input 0 failed, output 8\n", "result": false}
+{"question": 153, "output": "input 1 failed, output 3\n", "result": false}
+{"question": 154, "output": "input 0 failed, output 4\n", "result": false}
+{"question": 155, "output": "input 2 failed, output 1 2\n", "result": false}
+{"question": 156, "output": "input 1 failed, output 1 6\n", "result": false}
+{"question": 157, "output": "All Passed", "result": true}
+{"question": 158, "output": "input 2 failed, output YES\n", "result": false}
+{"question": 159, "output": "input 0 failed, output 2\n2 7 8 9 28\n", "result": false}
+{"question": 160, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 161, "output": "input 0 failed, output timed out", "result": false}
+{"question": 162, "output": "All Passed", "result": true}
+{"question": 163, "output": "input 1 failed, output timed out", "result": false}
+{"question": 164, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 165, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 166, "output": "input 0 failed, output YES\n3 3\n", "result": false}
+{"question": 167, "output": "input 1 failed, output -\n", "result": false}
+{"question": 168, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 169, "output": "input 1 failed, output 6\n", "result": false}
+{"question": 170, "output": "input 0 failed, output ", "result": false}
+{"question": 171, "output": "input 38 failed, output timed out", "result": false}
+{"question": 172, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 173, "output": "input 0 failed, output YES\n", "result": false}
+{"question": 174, "output": "input 0 failed, output YES\n(0)(1)(1)(0)\n", "result": false}
+{"question": 175, "output": "All Passed", "result": true}
+{"question": 176, "output": "All Passed", "result": true}
+{"question": 177, "output": "input 0 failed, output 6\n", "result": false}
+{"question": 178, "output": "input 3 failed, output YES\n", "result": false}
+{"question": 179, "output": "input 0 failed, output 555555561\n", "result": false}
+{"question": 180, "output": "input 0 failed, output Impossible\n", "result": false}
+{"question": 181, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 182, "output": "input 0 failed, output No\n", "result": false}
+{"question": 183, "output": "input 1 failed, output ", "result": false}
+{"question": 184, "output": "input 0 failed, output ", "result": false}
+{"question": 185, "output": "input 0 failed, output ", "result": false}
+{"question": 186, "output": "input 0 failed, output 7\n", "result": false}
+{"question": 187, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 188, "output": "input 0 failed, output ", "result": false}
+{"question": 189, "output": "input 0 failed, output 10 -30\n", "result": false}
+{"question": 190, "output": "All Passed", "result": true}
+{"question": 191, "output": "input 1 failed, output 800000006\n", "result": false}
+{"question": 192, "output": "input 0 failed, output 3\n", "result": false}
+{"question": 193, "output": "input 0 failed, output -0.0\n", "result": false}
+{"question": 194, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 195, "output": "All Passed", "result": true}
+{"question": 196, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 197, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 198, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 199, "output": "input 8 failed, output 3\n", "result": false}
+{"question": 200, "output": "input 0 failed, output ", "result": false}
+{"question": 201, "output": "input 5 failed, output timed out", "result": false}
+{"question": 202, "output": "All Passed", "result": true}
+{"question": 203, "output": "input 0 failed, output timed out", "result": false}
+{"question": 204, "output": "All Passed", "result": true}
+{"question": 205, "output": "All Passed", "result": true}
+{"question": 206, "output": "input 0 failed, output 20\n", "result": false}
+{"question": 207, "output": "input 1 failed, output No\n", "result": false}
+{"question": 208, "output": "input 0 failed, output 0 1 0 1\n", "result": false}
+{"question": 209, "output": "input 0 failed, output timed out", "result": false}
+{"question": 210, "output": "input 5 failed, output YES\n2\n1 5\n6 6\n", "result": false}
+{"question": 211, "output": "input 0 failed, output 10\n", "result": false}
+{"question": 212, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 213, "output": "input 1 failed, output 3\n", "result": false}
+{"question": 214, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 215, "output": "input 0 failed, output 5\n", "result": false}
+{"question": 216, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 217, "output": "input 0 failed, output 6\n", "result": false}
+{"question": 218, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 219, "output": "input 0 failed, output IMPOSSIBLE\n", "result": false}
+{"question": 220, "output": "input 0 failed, output 7\n", "result": false}
+{"question": 221, "output": "input 4 failed, output 1\n1 \n", "result": false}
+{"question": 222, "output": "All Passed", "result": true}
+{"question": 223, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 224, "output": "input 3 failed, output 1\n", "result": false}
+{"question": 225, "output": "All Passed", "result": true}
+{"question": 226, "output": "input 0 failed, output 1245 141\n", "result": false}
+{"question": 227, "output": "input 1 failed, output 2\n", "result": false}
+{"question": 228, "output": "input 1 failed, output Bob\n", "result": false}
+{"question": 229, "output": "input 1 failed, output YES\n", "result": false}
+{"question": 230, "output": "input 2 failed, output 0\n", "result": false}
+{"question": 231, "output": "input 1 failed, output 4\n", "result": false}
+{"question": 232, "output": "input 0 failed, output ", "result": false}
+{"question": 233, "output": "All Passed", "result": true}
+{"question": 234, "output": "All Passed", "result": true}
+{"question": 235, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 236, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 237, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 238, "output": "input 0 failed, output 36\n", "result": false}
+{"question": 239, "output": "input 0 failed, output 1 0\n0 0\n1 1\n0 1\n", "result": false}
+{"question": 240, "output": "input 0 failed, output ", "result": false}
+{"question": 241, "output": "input 2 failed, output Correct\n", "result": false}
+{"question": 242, "output": "input 0 failed, output 5\n10 11 12 13 14\n", "result": false}
+{"question": 243, "output": "input 40 failed, output 5 5\n", "result": false}
+{"question": 244, "output": "input 1 failed, output 1\n", "result": false}
+{"question": 245, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 246, "output": "input 7 failed, output timed out", "result": false}
+{"question": 247, "output": "input 0 failed, output ", "result": false}
+{"question": 248, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 249, "output": "input 0 failed, output [1]\n230\n", "result": false}
+{"question": 250, "output": "input 0 failed, output 942477.7960769379\n", "result": false}
+{"question": 251, "output": "input 0 failed, output 0\n0\n", "result": false}
+{"question": 252, "output": "input 0 failed, output 18\n", "result": false}
+{"question": 253, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 254, "output": "input 0 failed, output 5\n", "result": false}
+{"question": 255, "output": "All Passed", "result": true}
+{"question": 256, "output": "input 2 failed, output Team 1\n", "result": false}
+{"question": 257, "output": "input 0 failed, output 1000000000.0\n", "result": false}
+{"question": 258, "output": "input 4 failed, output Bicarp\n", "result": false}
+{"question": 259, "output": "All Passed", "result": true}
+{"question": 260, "output": "input 0 failed, output timed out", "result": false}
+{"question": 261, "output": "input 42 failed, output ", "result": false}
+{"question": 262, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 263, "output": "input 0 failed, output 2 8\n", "result": false}
+{"question": 264, "output": "input 1 failed, output 922019479\n", "result": false}
+{"question": 265, "output": "input 20 failed, output 1 1\n", "result": false}
+{"question": 266, "output": "input 1 failed, output 101 0\n", "result": false}
+{"question": 267, "output": "input 0 failed, output 490523621\n", "result": false}
+{"question": 268, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 269, "output": "input 0 failed, output -6 -7 -7 -7\n", "result": false}
+{"question": 270, "output": "input 0 failed, output ", "result": false}
+{"question": 271, "output": "input 0 failed, output 10\n", "result": false}
+{"question": 272, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 273, "output": "input 0 failed, output hp\n", "result": false}
+{"question": 274, "output": "input 0 failed, output +-------------+--+-------------+\n|+---------+--+---------+|+---+--+---+|\n||+-----+--+-----+|||||||\n||||||||||||\n|||||||+---+--+---+|\n|||||||\n||+-----+--+-----+||\n|+---------+--+---------+|\n+-------------+--+-------------+\n", "result": false}
+{"question": 275, "output": "input 0 failed, output =\n", "result": false}
+{"question": 276, "output": "input 1 failed, output 6\nReality\nSoul\nTime\nPower\nMind\nSpace\n", "result": false}
+{"question": 277, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 278, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 279, "output": "input 0 failed, output 23\n", "result": false}
+{"question": 280, "output": "input 0 failed, output ", "result": false}
+{"question": 281, "output": "input 0 failed, output 4\n", "result": false}
+{"question": 282, "output": "All Passed", "result": true}
+{"question": 283, "output": "input 0 failed, output ", "result": false}
+{"question": 284, "output": "All Passed", "result": true}
+{"question": 285, "output": "All Passed", "result": true}
+{"question": 286, "output": "input 0 failed, output 3\n", "result": false}
+{"question": 287, "output": "input 0 failed, output 2 3\n", "result": false}
+{"question": 288, "output": "input 2 failed, output 3\n", "result": false}
+{"question": 289, "output": "input 2 failed, output 1\n", "result": false}
+{"question": 290, "output": "input 1 failed, output 2\n", "result": false}
+{"question": 291, "output": "All Passed", "result": true}
+{"question": 292, "output": "input 0 failed, output timed out", "result": false}
+{"question": 293, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 294, "output": "input 4 failed, output No\n", "result": false}
+{"question": 295, "output": "input 1 failed, output NO\n", "result": false}
+{"question": 296, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 297, "output": "input 0 failed, output N\n", "result": false}
+{"question": 298, "output": "input 4 failed, output timed out", "result": false}
+{"question": 299, "output": "All Passed", "result": true}
+{"question": 300, "output": "input 0 failed, output timed out", "result": false}
+{"question": 301, "output": "input 0 failed, output 2\n2 4\n", "result": false}
+{"question": 302, "output": "input 0 failed, output 11\n", "result": false}
+{"question": 303, "output": "input 1 failed, output YES\n", "result": false}
+{"question": 304, "output": "input 1 failed, output 9\n", "result": false}
+{"question": 305, "output": "All Passed", "result": true}
+{"question": 306, "output": "input 0 failed, output ", "result": false}
+{"question": 307, "output": "All Passed", "result": true}
+{"question": 308, "output": "input 1 failed, output 10\n", "result": false}
+{"question": 309, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 310, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 311, "output": "input 1 failed, output YES\n", "result": false}
+{"question": 312, "output": "input 3 failed, output 4\n", "result": false}
+{"question": 313, "output": "input 0 failed, output 3\n", "result": false}
+{"question": 314, "output": "input 4 failed, output 19\n", "result": false}
+{"question": 315, "output": "input 0 failed, output 7\n5 0 5\n", "result": false}
+{"question": 316, "output": "input 1 failed, output 6\n", "result": false}
+{"question": 317, "output": "All Passed", "result": true}
+{"question": 318, "output": "input 16 failed, output timed out", "result": false}
+{"question": 319, "output": "input 0 failed, output ", "result": false}
+{"question": 320, "output": "input 2 failed, output -1\n", "result": false}
+{"question": 321, "output": "input 0 failed, output timed out", "result": false}
+{"question": 322, "output": "input 0 failed, output No\n", "result": false}
+{"question": 323, "output": "All Passed", "result": true}
+{"question": 324, "output": "input 0 failed, output ", "result": false}
+{"question": 325, "output": "input 0 failed, output ", "result": false}
+{"question": 326, "output": "input 0 failed, output ", "result": false}
+{"question": 327, "output": "input 1 failed, output 63\n", "result": false}
+{"question": 328, "output": "input 0 failed, output 4\n", "result": false}
+{"question": 329, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 330, "output": "input 0 failed, output 4\n", "result": false}
+{"question": 331, "output": "input 3 failed, output timed out", "result": false}
+{"question": 332, "output": "input 2 failed, output NO\n", "result": false}
+{"question": 333, "output": "input 0 failed, output ", "result": false}
+{"question": 334, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 335, "output": "input 0 failed, output 0 0 3\n", "result": false}
+{"question": 336, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 337, "output": "input 1 failed, output 3\n", "result": false}
+{"question": 338, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 339, "output": "input 3 failed, output timed out", "result": false}
+{"question": 340, "output": "input 0 failed, output 2 3\n", "result": false}
+{"question": 341, "output": "input 0 failed, output 21\n", "result": false}
+{"question": 342, "output": "input 1 failed, output 8\n", "result": false}
+{"question": 343, "output": "input 0 failed, output 2 2\n", "result": false}
+{"question": 344, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 345, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 346, "output": "input 0 failed, output timed out", "result": false}
+{"question": 347, "output": "input 0 failed, output 4899\n", "result": false}
+{"question": 348, "output": "input 2 failed, output 0\n", "result": false}
+{"question": 349, "output": "input 0 failed, output Impossible\n", "result": false}
+{"question": 350, "output": "input 0 failed, output 15\n", "result": false}
+{"question": 351, "output": "input 1 failed, output -1\n", "result": false}
+{"question": 352, "output": "input 0 failed, output 1 5 0\n", "result": false}
+{"question": 353, "output": "input 0 failed, output ", "result": false}
+{"question": 354, "output": "All Passed", "result": true}
+{"question": 355, "output": "input 0 failed, output B\n", "result": false}
+{"question": 356, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 357, "output": "input 2 failed, output YES\n", "result": false}
+{"question": 358, "output": "input 9 failed, output timed out", "result": false}
+{"question": 359, "output": "input 0 failed, output -11.0\n", "result": false}
+{"question": 360, "output": "All Passed", "result": true}
+{"question": 361, "output": "input 11 failed, output YES\n", "result": false}
+{"question": 362, "output": "input 1 failed, output inf\n", "result": false}
+{"question": 363, "output": "input 0 failed, output 15\n", "result": false}
+{"question": 364, "output": "input 1 failed, output 4\n", "result": false}
+{"question": 365, "output": "input 1 failed, output NO\n", "result": false}
+{"question": 366, "output": "All Passed", "result": true}
+{"question": 367, "output": "input 0 failed, output aba\n", "result": false}
+{"question": 368, "output": "All Passed", "result": true}
+{"question": 369, "output": "input 0 failed, output 1 1 1 2 1 1 2", "result": false}
+{"question": 370, "output": "input 0 failed, output timed out", "result": false}
+{"question": 371, "output": "input 0 failed, output timed out", "result": false}
+{"question": 372, "output": "input 0 failed, output 7.252988063641757\n", "result": false}
+{"question": 373, "output": "input 0 failed, output ", "result": false}
+{"question": 374, "output": "input 0 failed, output 6\n", "result": false}
+{"question": 375, "output": "input 1 failed, output 2\n", "result": false}
+{"question": 376, "output": "input 2 failed, output 7\n", "result": false}
+{"question": 377, "output": "input 0 failed, output 5\n", "result": false}
+{"question": 378, "output": "input 2 failed, output timed out", "result": false}
+{"question": 379, "output": "input 2 failed, output NO\n", "result": false}
+{"question": 380, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 381, "output": "input 1 failed, output YES\n4 7\n1 2\n2 3\n3 4\n4 1\n2 1\n2 2\n3 2\n", "result": false}
+{"question": 382, "output": "input 0 failed, output ", "result": false}
+{"question": 383, "output": "input 0 failed, output 4\n", "result": false}
+{"question": 384, "output": "input 2 failed, output 0\n0\n", "result": false}
+{"question": 385, "output": "input 0 failed, output ", "result": false}
+{"question": 386, "output": "input 0 failed, output Impossible\n", "result": false}
+{"question": 387, "output": "input 1 failed, output 7\n", "result": false}
+{"question": 388, "output": "input 0 failed, output ", "result": false}
+{"question": 389, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 390, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 391, "output": "input 1 failed, output bw\nwb\n\nwb\nbw\n\n", "result": false}
+{"question": 392, "output": "input 1 failed, output 3\n", "result": false}
+{"question": 393, "output": "input 0 failed, output ", "result": false}
+{"question": 394, "output": "input 0 failed, output ", "result": false}
+{"question": 395, "output": "All Passed", "result": true}
+{"question": 396, "output": "input 2 failed, output timed out", "result": false}
+{"question": 397, "output": "input 2 failed, output 4\n", "result": false}
+{"question": 398, "output": "All Passed", "result": true}
+{"question": 399, "output": "input 0 failed, output No\n", "result": false}
+{"question": 400, "output": "input 0 failed, output 3\n", "result": false}
+{"question": 401, "output": "input 2 failed, output 91\n", "result": false}
+{"question": 402, "output": "All Passed", "result": true}
+{"question": 403, "output": "input 24 failed, output 7\n", "result": false}
+{"question": 404, "output": "input 1 failed, output 60\n", "result": false}
+{"question": 405, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 406, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 407, "output": "input 0 failed, output ", "result": false}
+{"question": 408, "output": "input 4 failed, output 250000\n", "result": false}
+{"question": 409, "output": "input 0 failed, output YES\n", "result": false}
+{"question": 410, "output": "input 0 failed, output YES\n0 R\n0 R\n", "result": false}
+{"question": 411, "output": "input 0 failed, output No\n", "result": false}
+{"question": 412, "output": "All Passed", "result": true}
+{"question": 413, "output": "All Passed", "result": true}
+{"question": 414, "output": "input 0 failed, output timed out", "result": false}
+{"question": 415, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 416, "output": "input 1 failed, output YES\n", "result": false}
+{"question": 417, "output": "input 0 failed, output 5\n", "result": false}
+{"question": 418, "output": "All Passed", "result": true}
+{"question": 419, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 420, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 421, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 422, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 423, "output": "input 0 failed, output ", "result": false}
+{"question": 424, "output": "input 0 failed, output 12\n", "result": false}
+{"question": 425, "output": "input 0 failed, output ", "result": false}
+{"question": 426, "output": "input 2 failed, output 1\n", "result": false}
+{"question": 427, "output": "input 0 failed, output 6\n", "result": false}
+{"question": 428, "output": "input 0 failed, output 2 5\n", "result": false}
+{"question": 429, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 430, "output": "input 3 failed, output YES\n", "result": false}
+{"question": 431, "output": "input 0 failed, output ", "result": false}
+{"question": 432, "output": "input 0 failed, output 13\n", "result": false}
+{"question": 433, "output": "All Passed", "result": true}
+{"question": 434, "output": "input 0 failed, output 9\n", "result": false}
+{"question": 435, "output": "All Passed", "result": true}
+{"question": 436, "output": "All Passed", "result": true}
+{"question": 437, "output": "input 0 failed, output 1.0\n", "result": false}
+{"question": 438, "output": "All Passed", "result": true}
+{"question": 439, "output": "input 2 failed, output timed out", "result": false}
+{"question": 440, "output": "input 0 failed, output wird\n", "result": false}
+{"question": 441, "output": "input 1 failed, output 3\n", "result": false}
+{"question": 442, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 443, "output": "input 0 failed, output 1\n\n", "result": false}
+{"question": 444, "output": "input 1 failed, output 1\n4\n", "result": false}
+{"question": 445, "output": "input 0 failed, output 2\n2 3\n", "result": false}
+{"question": 446, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 447, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 448, "output": "input 0 failed, output 1\n3\n4\n2\n5\n", "result": false}
+{"question": 449, "output": "All Passed", "result": true}
+{"question": 450, "output": "input 1 failed, output 6\n", "result": false}
+{"question": 451, "output": "input 0 failed, output -1\n", "result": false}
+{"question": 452, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 453, "output": "input 0 failed, output ", "result": false}
+{"question": 454, "output": "input 0 failed, output 6\n", "result": false}
+{"question": 455, "output": "input 0 failed, output ", "result": false}
+{"question": 456, "output": "input 0 failed, output timed out", "result": false}
+{"question": 457, "output": "All Passed", "result": true}
+{"question": 458, "output": "input 0 failed, output 0\n", "result": false}
+{"question": 459, "output": "input 0 failed, output YES\n", "result": false}
+{"question": 460, "output": "input 1 failed, output 1\n", "result": false}
+{"question": 461, "output": "All Passed", "result": true}
+{"question": 462, "output": "All Passed", "result": true}
+{"question": 463, "output": "input 2 failed, output 1\n", "result": false}
+{"question": 464, "output": "input 0 failed, output NO\n", "result": false}
+{"question": 465, "output": "input 0 failed, output YES\n000\n000\n000\n", "result": false}
+{"question": 466, "output": "All Passed", "result": true}
+{"question": 467, "output": "input 0 failed, output ", "result": false}
+{"question": 468, "output": "input 4 failed, output <\n", "result": false}
+{"question": 469, "output": "input 0 failed, output 4.0\n", "result": false}
+{"question": 470, "output": "input 2 failed, output 30\n", "result": false}
+{"question": 471, "output": "input 1 failed, output 21\n", "result": false}
+{"question": 472, "output": "input 4 failed, output timed out", "result": false}
+{"question": 473, "output": "All Passed", "result": true}
+{"question": 474, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 475, "output": "input 0 failed, output 6\n", "result": false}
+{"question": 476, "output": "input 0 failed, output ", "result": false}
+{"question": 477, "output": "input 0 failed, output ", "result": false}
+{"question": 478, "output": "input 9 failed, output 52\n", "result": false}
+{"question": 479, "output": "input 0 failed, output -1\n20\n19\n20\n-1\n3\n-1\n-1\n", "result": false}
+{"question": 480, "output": "input 1 failed, output 4\n", "result": false}
+{"question": 481, "output": "input 0 failed, output -2\n", "result": false}
+{"question": 482, "output": "All Passed", "result": true}
+{"question": 483, "output": "input 0 failed, output 2\n", "result": false}
+{"question": 484, "output": "input 1 failed, output 72\n", "result": false}
+{"question": 485, "output": "input 0 failed, output ", "result": false}
+{"question": 486, "output": "input 0 failed, output 1162261467\n", "result": false}
+{"question": 487, "output": "input 0 failed, output 6\n", "result": false}
+{"question": 488, "output": "input 0 failed, output 1\n1\n", "result": false}
+{"question": 489, "output": "input 0 failed, output 1\n", "result": false}
+{"question": 490, "output": "input 0 failed, output ", "result": false}
+{"question": 491, "output": "input 0 failed, output 230\n", "result": false}
+{"question": 492, "output": "input 0 failed, output ccw\n", "result": false}
+{"question": 493, "output": "input 1 failed, output 2\n", "result": false}
+{"question": 494, "output": "input 0 failed, output 3 1 -2 0\n", "result": false}
+{"question": 495, "output": "input 0 failed, output ", "result": false}
+{"question": 496, "output": "input 10 failed, output 42\n", "result": false}
+{"question": 497, "output": "input 5 failed, output 7\n", "result": false}
+{"question": 498, "output": "All Passed", "result": true}
+{"question": 499, "output": "input 0 failed, output R\n", "result": false}
